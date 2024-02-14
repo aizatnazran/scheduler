@@ -2,6 +2,8 @@
 
 A scheduler test to automate WhatsApp message sending based on user-defined schedules.
 
+![Scheduler](scheduler.png)
+
 ### Installation
 
 Clone the repository to your local machine:
